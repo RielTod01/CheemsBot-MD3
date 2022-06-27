@@ -101,7 +101,7 @@ global.mess = {
     group: '*Fitur Digunakan Hanya Untuk Group!*',
     private: '*Fitur Digunakan Hanya Untuk Private Chat!*',
     bot: '*Fitur Khusus Pengguna Nomor Bot!*',
-    wait: '',𝐋𝐎𝐀𝐃𝐈𝐍𝐆....
+    wait: '𝐋𝐎𝐀𝐃𝐈𝐍𝐆....',
     linkm: 'Where is the link?',
     error: 'Error NGAB',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
