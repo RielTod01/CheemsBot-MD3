@@ -96,14 +96,14 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: 'Done✓',
     admin: '*Fitur hanya bisa di gunakan oleh admin!*',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This feature is only for owner',
-    group: 'This feature is only for groups!',
-    private: 'This feature is only for private chats!',
-    bot: 'This feature is only for bot',
-    wait: 'In process...',
+    botAdmin: '*Bot Harus Menjadi Admin Terlebih Dahulu!*',
+    owner: '*Fitur Khusus Owner Bot*',
+    group: '*Fitur Digunakan Hanya Untuk Group!*',
+    private: '*Fitur Digunakan Hanya Untuk Private Chat!*',
+    bot: '*Fitur Khusus Pengguna Nomor Bot!*',
+    wait: '',𝐋𝐎𝐀𝐃𝐈𝐍𝐆....
     linkm: 'Where is the link?',
-    error: 'Error!',
+    error: 'Error NGAB',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
