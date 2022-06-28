@@ -27,8 +27,8 @@ const chalk = require("chalk")
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autoReadAll = false // auto reading in all pchat gc and status (true to on, false to off)
+global.autoReadGc = trus //auto reading in gc (true to on, false to off)
+global.autoReadAll = true // auto reading in all pchat gc and status (true to on, false to off)
 global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
@@ -41,8 +41,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6282146218284'] //ur owner number
-global.ownername = "6282146218284"
+global.owner = ['6282146218274'] //ur owner number
+global.ownername = "6282146218274"
 global.ytname = "Gada yt banh🐤" //ur yt chanel name
 global.socialm = "github.com/rieltod" //ur github or insta name
 global.location = "indonesia, Samarinda, Bukit raya" //ur location
@@ -51,12 +51,12 @@ global.location = "indonesia, Samarinda, Bukit raya" //ur location
 global.botname = "RIELBOTZ-Md" //ur bot name
 global.websitex = "github.io.rieltod.com/" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Riel Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
+global.packname = "Riel Bot Stickers\n\n\n\n\n\n\nWhastapp by RielOfc"
 global.author = "by rielgans🐤"
 global.themeemoji = "🐶"
 global.reactmoji = "🗿"
-global.ownertag = ['6282146218284'] //ur owner tag
-global.ownernummenu = ['6282146218284'] //ur owner number in menu and all
+global.ownertag = ['6282146218274'] //ur owner tag
+global.ownernummenu = ['6282146218274'] //ur owner number in menu and all
 global.watermark = "𝚁𝙸𝙴𝙻𝙱𝙾𝚃𝚉 𝚆𝙷𝙰𝚂𝚃𝙰𝙿𝙿 𝙼𝙳." //ur watermark
 global.botscript = "https://github.com"
 global.linkz1 = "https://chat.whatsapp.com/JqzZbqyCvBa6tXzLH1P3hZ"
